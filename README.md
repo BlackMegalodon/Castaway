@@ -5,4 +5,5 @@ Projeto Castaway
   Design: Guilherme
   Programador: Todo Mundo
   Musico: Nathan.
+  
 Colocar os arquivos criados nas devidas pastas de cada um
