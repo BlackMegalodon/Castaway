@@ -4,11 +4,11 @@ Projeto Castaway
 
 Roteirista: Kendy e Guilherme/Guilherme ;
   
-Spriter: Bragante, Honório e Guilherme/Guilherme;
+Spriter: Bragante e Guilherme/Guilherme;
   
-Design: Guilherme/Guilherme;
+Design: Kendy, Honório, Bragante e Guilherme/Guilherme;
   
-Programador: Todo Mundo/Guilherme;
+Programador: Honório e Guilherme/Guilherme;
   
 Musico: Nathan/Guilherme.
 
