@@ -1,0 +1,65 @@
+arial 12 (arial 14 para os títulos)
+mínimo 7 a 8 páginas
+espaçamento 1.5
+texto justificado
+margens 2.5 para todos os lados
+
+[capa]
+Trabalho em grupo - análise de qualidade de software aplicada ao projeto final de curso (TCC)
+provavelmente mesma pira das capa da ana flávia
+
+--- Visão geral ---
+
+nome do projeto
+turma
+equipe (nome e rm)
+problema q o sistema resovle
+público alvo
+principais funcionalidades
+estado atual do projeto
+escopo planejado para o tcc
+
+--- Análise ---
+(justifique suas respostas utilizando conceitos discutidos na matéria) (fazer textão)
+
+1.1 qualidade do produto
+quais atributos de qualidade são mais importantes para o seu sistema?
+como pretende garantir a qualidade adequada para os tópicos mais importantes em seu projeto?
+
+1.2 qualidade do processo
+quais são os principais pontos positivos do processo adotado?
+quais são os pontos que precisam de maior atenção ou melhoria?
+
+1.3 escolhas tecnológicas
+por que essas tecnologias foram escolhidas?
+elas são adequadas ao problema?
+há alguma escolha que o grupo reavaliaria hoje?
+
+1.4 organização do repositório
+qual a estrutura de pastas?
+qual a estrutura de commit? 
+o projeto tem readme?
+
+1.5 qualidade do código
+legibilidade
+organização das classes e arquivos
+clareza de nomes
+tamanho de funções
+comentários e documentação
+
+apresente exemplos concretos do código para ilustrar a análise
+
+--- Identificação e priorização de melhorias ---
+
+liste 3 a 5 melhorias prioritárias. Para cada uma, apresente
+  descrição da melhoria
+  problema que ela resolve
+  prioridade (alta, média, baixa)
+  justificativa
+
+--- Conclusão ---
+
+síntese do diagnóstico
+  principais pontos positivos do projeto
+  principais riscos ou problemas identificados
+  próximos passos recomendados para melhorar a qualidade do sistema
