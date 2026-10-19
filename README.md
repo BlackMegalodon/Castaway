@@ -2,11 +2,11 @@ Projeto Castaway
 
 --------------------------
 
-Roteirista: Kendy e Guilherme ;
+Roteirista: Kendy e Guilherme;
   
 Spriter: Bragante e Guilherme;
   
-Design: Kendy, Honório, Bragante e Guilherme
+Design: Kendy, Honório, Bragante e Guilherme;
   
 Programador: Honório e Guilherme;
   
